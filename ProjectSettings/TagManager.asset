@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Node
+    uniqueID: 1101080465
+    locked: 0
+  - name: S,E Point
+    uniqueID: 2281393413
+    locked: 0
+  - name: Ground
+    uniqueID: 509589377
+    locked: 0
